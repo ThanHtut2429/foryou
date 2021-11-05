@@ -1,5 +1,8 @@
+body{
+  background:#ddd;
+}
 .open_popup{
-  background:tomato;
+  
   border:none;
   padding:5px 15px;
   color:#fff;
@@ -37,7 +40,7 @@
   padding: 10px 20px;
 }
 .popup_close{
-  background:red;
+ 
   padding:3px 10px 5px;
   position: absolute;
   right:-10px;
